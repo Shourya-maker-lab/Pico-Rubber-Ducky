@@ -1,0 +1,5 @@
+Payloads links 
+
+1. https://github.com/hak5/usbrubberducky-payloads
+2. https://www.google.com/search?q=rubber+ducky+payloads&oq=rubber+&aqs=chrome.1.69i57j69i59l2j69i60l3.2810j0j1&sourceid=chrome&ie=UTF-8
+3. https://github-wiki-see.page/m/hak5darren/USB-Rubber-Ducky/wiki/Payloads

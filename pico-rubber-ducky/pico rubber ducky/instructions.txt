@@ -1,0 +1,5 @@
+To run micro python paste rp2 bootloader and to make rubber ducky paste circuit python boot loader
+To create a payload.dd file open terminal in the folder and type $touch payload.dd
+Edit that file with atom editor 
+Done 
+Bye 
